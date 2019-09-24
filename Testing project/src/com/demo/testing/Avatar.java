@@ -2,7 +2,7 @@ package com.demo.testing;
 
 public class Avatar {
 	void demo() {
-		System.out.println("Hi");
+		System.out.println("Hi"); 
 	}
 
 }
